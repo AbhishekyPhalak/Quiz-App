@@ -79,6 +79,32 @@ The database consists of the following main tables:
 
 ---
 
+## 📷 Screenshots
+
+### 📌 Register Page
+[image](![image](https://github.com/user-attachments/assets/dc1e3318-5bd8-4877-818c-6dc7833f489a)
+
+### 📌 User Home Page  
+[image](![image](https://github.com/user-attachments/assets/fff31b30-7685-4f54-a269-8c254e1d6002)
+
+### 📌 Quiz Page  
+[image](![image](https://github.com/user-attachments/assets/d7223514-a03d-4167-98a2-e64148c5a549)
+
+### 📌 Quiz Results Page  
+[image](![image](https://github.com/user-attachments/assets/830bb4b8-32a9-4437-9b19-36a60afc45f7)
+
+### 📌 Admin Home Page  
+[image](![image](https://github.com/user-attachments/assets/75205971-0b35-4840-80d9-1b6dc7cc57a1)
+)
+
+### 📌 Admin User Management  
+[image](![image](https://github.com/user-attachments/assets/42120b8b-27de-4481-bd57-3654b6fae871))
+
+### 📌 Admin Question Management  
+[image](![image](https://github.com/user-attachments/assets/acc8ee9f-2dc5-4067-93b2-87b78c4595b5)
+)
+
+
 ## Getting Started
 
 1. Clone the repository:

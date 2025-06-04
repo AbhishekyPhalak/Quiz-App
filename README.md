@@ -75,7 +75,7 @@ The database consists of the following main tables:
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](![image](https://github.com/user-attachments/assets/a620a833-83d4-448f-aff9-94ea5e3e8e9f))
+![image](https://github.com/user-attachments/assets/a620a833-83d4-448f-aff9-94ea5e3e8e9f)
 
 ---
 
